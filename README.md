@@ -22,7 +22,7 @@ This is a simple to-do list website built using **HTML, CSS, and JavaScript**. U
 - If you try to add a task without entering anything, a message "🚨 Task cannot be empty ✎" will be displayed.
 ### Managing Tasks
 - Click on a task to mark it as completed. Click again to undo.
-- Click the trash can icon next to a task to delete it from the list.
+- Click the trash can icon next to a task to delete it from the list or click on delete selected button.
 - Use the "Delete All" button to remove all tasks from the list.
 
 
