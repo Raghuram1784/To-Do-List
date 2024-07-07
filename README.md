@@ -26,7 +26,7 @@ This is a simple to-do list website built using HTML, CSS, and JavaScript. Users
 - Use the "Delete All" button to remove all tasks from the list.
 
 
-# Screenshots
+# Application Snapshots
 ![Home](To-Do-List/img/Todo1.png)
 ![Alert message](To-Do-List/img/Todo2.png)
 ![Tasks](To-Do-List/img/Todo3.png)
