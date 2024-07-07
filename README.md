@@ -4,10 +4,10 @@ This is a simple to-do list website built using **HTML, CSS, and JavaScript**. U
 
 # Features 
 - **Add Tasks** :  Users can enter tasks in the search bar and add them to the list using either the Enter key or an "Add" button.
-- **Validation** :  If the user tries to add a task with an empty input (by pressing Enter or clicking the "Add" button without entering anything), a message "🚨 Task cannot be empty ✎" will be displayed.
+- **Validation** :  If the user tries to add a task with an empty input (by pressing Enter or clicking the "Add" button without entering anything), a message **"🚨 Task cannot be empty ✎"** will be displayed.
 - **Delete Tasks** :  Users can delete individual tasks by clicking on them. There is also an option to delete all tasks at once.
 - **Task Status** :  The website shows the total number of tasks, how many tasks are completed, and how many are pending.
-- **Persistence** :  Tasks are stored locally in the browser, so they remain even if the user refreshes the page or closes and reopens the website.
+- **Persistence** :  Tasks are stored **locally** in the browser, so they remain even if the user refreshes the page or closes and reopens the website.
 
 
 # Technologies Used
