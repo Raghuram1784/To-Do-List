@@ -1,5 +1,5 @@
 # To-Do-List
-This is a simple to-do list website built using HTML, CSS, and JavaScript. Users can enter their tasks or to-do items in a search bar and manage them on the webpage.
+This is a simple to-do list website built using **HTML, CSS, and JavaScript**. Users can enter their tasks or to-do items in a search bar and manage them on the webpage.
 
 
 # Features 
@@ -11,9 +11,9 @@ This is a simple to-do list website built using HTML, CSS, and JavaScript. Users
 
 
 # Technologies Used
-- HTML
-- CSS
-- JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 
 # How to Use
