@@ -18,7 +18,7 @@ This is a simple **to-do list** website built using **HTML, CSS, and JavaScript*
 
 # How to Use
 ### Adding Tasks :
-- Enter a task in the input field and press Enter or click the "Add" button to add it to your to-do list.
+- Enter a task in the input field and press **Enter** or click the **"Add"** button to add it to your to-do list.
 - If you try to add a task without entering anything, a message "🚨 Task cannot be empty ✎" will be displayed.
 ### Managing Tasks
 - Click on a task to mark it as completed. Click again to undo.
