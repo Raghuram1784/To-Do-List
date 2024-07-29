@@ -12,7 +12,7 @@ This is a simple to-do list website built using **HTML, CSS, and JavaScript**. U
 
 # Technologies Used
 - ### HTML
-- **CSS**
+- ### CSS
 - **JavaScript**
 
 
